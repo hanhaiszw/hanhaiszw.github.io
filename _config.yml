@@ -1,11 +1,11 @@
 # Site settings
 title: 瀚海的 Blog
-SEOTitle: 瀚海的博客 | hanhai Blog
+SEOTitle: 瀚海的博客 | Hanhai Blog
 header-img: img/home-bg.jpg
 email: hanhai@gmail.com
-description: "这里是 瀚海 的个人博客，与你一起发现更大的世界 | 要做一个有 swag 的程序员"
-keyword: "瀚海, 瀚海的博客, Hux Blog, 博客, 个人网站, 互联网, Web, JavaScript, React, React Native, 前端, 设计"
-url: "https://huangxuan.me" # your host, for absolute URL
+description: "这里是 瀚海 的个人博客，与你一起发现更大的世界 | 要做一个有 B格 的程序员"
+keyword: "瀚海, 瀚海的博客, Hanhai Blog, 博客, 个人网站, 互联网, Web, Java, 后端"
+url: "https://hanhaiszw.github.io" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -13,10 +13,10 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username: huxpro
-zhihu_username: huxpro
-github_username: huxpro
-twitter_username: huxpro
+weibo_username: xxx
+zhihu_username: xxx
+github_username: hanhaiszw
+twitter_username: xxx
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
 
