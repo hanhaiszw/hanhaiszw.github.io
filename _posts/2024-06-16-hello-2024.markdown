@@ -3,7 +3,7 @@ layout:     post
 title:      "Hello 2015"
 subtitle:   " \"Hello World, Hello Blog\""
 date:       2024-06-16 12:00:00
-author:     "Hux"
+author:     "Hanhai"
 header-img: "img/post-bg-2015.jpg"
 catalog: true
 tags:
@@ -16,4 +16,4 @@ tags:
 ## 1.1 标题1.1
 
 
-> “Yeah It's on. ”
+> “hi，I am Barton，who are you?”
