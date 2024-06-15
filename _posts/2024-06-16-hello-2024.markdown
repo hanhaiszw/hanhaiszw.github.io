@@ -9,6 +9,7 @@ catalog: true
 tags:
     - Meta
     - 笔记
+    - test
 ---
 
 > “hi，I am Barton，who are you?”
