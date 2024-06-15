@@ -8,6 +8,7 @@ header-img: "img/post-bg-2015.jpg"
 catalog: true
 tags:
     - Meta
+    - 笔记
 ---
 
 这是一个开源软件
