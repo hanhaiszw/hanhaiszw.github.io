@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "Hello 2024"
-subtitle:   " \"Hello World, Hello Blog\""
+title:      "Mysql"
+subtitle:   "mysql笔记"
 date:       2024-06-17 00:29:25
 author:     "Hanhai"
 header-img: text
