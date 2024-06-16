@@ -78,7 +78,7 @@ sidebar: true # whether or not using Sidebar.
 # sidebar-about-description: "要做一个有 B格 的程序员 <br> React Team @ Meta"
 # sidebar-avatar: https://github.com/Huxpro.png # use absolute URL, seeing it's used in both `/` and `/about/`
 sidebar-about-description: "要做一个有 B格 的程序员"
-sidebar-avatar: img/诸葛亮抽烟.jpg # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/诸葛亮抽烟.jpg # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 # Featured Tags
