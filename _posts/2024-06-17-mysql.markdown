@@ -5,14 +5,14 @@ subtitle:   "mysql笔记"
 date:       2024-06-17 00:29:25
 author:     "Hanhai"
 header-img: text
-catalog: true
 tags:
     - 笔记
     - mysql
 ---
 
-> “mysql笔记” 
+> “mysql笔记”
 
+catalog: true
 hidden: true
 这是mysql
 # 1 标题一
