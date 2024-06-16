@@ -4,7 +4,7 @@ title:      "Mysql"
 subtitle:   "mysql笔记"
 date:       2024-06-17 00:29:25
 author:     "Hanhai"
-header-img: text
+header-style: text
 tags:
     - 笔记
     - mysql
