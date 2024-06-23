@@ -1,0 +1,24 @@
+---
+layout:     post
+title:      "Java并发"
+subtitle:   "并发编程"
+date:       2024年06月23日15:42:30
+author:     "Hanhai"
+header-style: text
+tags:
+  - java
+---
+
+# 内存间交互操作
+Java 内存模型定义了 8 个操作来完成主内存和工作内存的交互操作。
+![img.png](内存间交互操作图.png)
+* read：把一个变量的值从主内存传输到工作内存中
+* load：在 read 之后执行，把 read 得到的值放入工作内存的变量副本中
+* use：把工作内存中一个变量的值传递给执行引擎
+* assign：把一个从执行引擎接收到的值赋给工作内存的变量
+* store：把工作内存的一个变量的值传送到主内存中
+* write：在 store 之后执行，把 store 得到的值放入主内存的变量中
+* lock：作用于主内存的变量
+* unlock
+
+
